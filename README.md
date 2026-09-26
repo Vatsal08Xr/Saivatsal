@@ -7,3 +7,5 @@ I am a 2nd-year Artificial Intelligence & Machine Learning student at REVA Unive
 Currently Learning: Data Structures in C, Machine Learning fundamentals.
 Current Focus: Building practical AI applications and improving problem-solving skills.
 Tech Stack: Python, C, HTML/CSS/JS.
+
+Portfolio: https://saivatsal-b.ai.studio/
